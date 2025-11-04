@@ -17,7 +17,7 @@ int/*Return Type*/main/*Function*/(int argc, char* argv[])//Parameter List
     std::cout<<"Who is Han's sexual slave?:"<<std::flush;//prompt for user input before user inputed
     std::cin/*only for single word*/>>name;//capture the user input
     std::cout<<std::endl;
-    std::cout<<"Ok! So,"<<name<<" is the happiest and luckiest girl in the world!"<<std::endl;
+    std::cout<<"Yes! So,"<<name<<" is the happiest and luckiest girl in the world!"<<std::endl;
     std::cout<<std::endl;
     std::cout<<"Love you,"<<std::endl;
     std::cout<<"Han"<<std::endl;
